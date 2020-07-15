@@ -1,6 +1,10 @@
 {
   "menuItems": [
     {
+      "link": "/blerg-bleg",
+      "label": "Hello"
+    },
+    {
       "label": "Home",
       "link": "/"
     },
@@ -16,8 +20,5 @@
       "label": "Contact",
       "link": "/contact"
     }
-  ],
-  "__gatsby_resolved": {
-    "fileRelativePath": "/content/settings/menu.json"
-  }
+  ]
 }
