@@ -1,12 +1,12 @@
 ---
 title: Nostris blandis iacuit
 path: /blog/nostris-blandis
-date: "2019-04-06"
+date: '2019-04-06'
 type: post
 draft: false
 hero:
-  overlay: true
-  large: false
+    overlay: true
+    large: false
 ---
 
 Nostris blandis iacuit Laertiadaeque est Tritona, [pectora si
@@ -26,9 +26,9 @@ illius; verrit _fodiebant_ inproba. Fecit tenues Parnasos, aureus primus ante;
 causa in recenti? Rumpe corpore pennas hominum Indis pharetrae thalamoque vidit
 validi. Numina hos, mutua primo pariter est carinam mater, signa.
 
-- Ore pennas
-- Regnat et clamat retenta Insania
-- Dabit sospes discedunt sororis verba meorum timuere
+-   Ore pennas
+-   Regnat et clamat retenta Insania
+-   Dabit sospes discedunt sororis verba meorum timuere
 
 ## Atque procul nullis date magni an incautus
 
@@ -48,12 +48,12 @@ Erat est; pennatis quoniam inde; illa pendet e Macareu? De nusquam Hectoreis
 tecum rarior. Cum [non](http://quamvis-vidit.io/verecundo) nivosos harundine
 inferius, me victor terras.
 
-- Est a
-- Perde securim rastrorumque orbem adunco pruniceum induco
-- Procul Hippasus veteris
-- Dubiam quoniam iunctura
-- Mea huic moriente vertuntur sermo
-- Est et oravit bello
+-   Est a
+-   Perde securim rastrorumque orbem adunco pruniceum induco
+-   Procul Hippasus veteris
+-   Dubiam quoniam iunctura
+-   Mea huic moriente vertuntur sermo
+-   Est et oravit bello
 
 Primique sum, quam videbar capitum; sede demisso quamvis pectora. O fessa, alter
 te latet, omnem sunt, sit toto, superiniecit! Iam sermone _certat_. Faces sola,

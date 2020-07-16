@@ -1,38 +1,38 @@
 {
-  "title": "Contact",
-  "path": "/contact",
-  "blocks": [
-    {
-      "_template": "TitleBlock",
-      "title": "",
-      "underline": true,
-      "content": ""
-    },
-    {
-      "_template": "FormBlock",
-      "name": "Contact Form",
-      "fields": [
+    "title": "Contact",
+    "path": "/contact",
+    "blocks": [
         {
-          "label": "Name",
-          "inputType": "text",
-          "autocomplete": "name",
-          "_template": "nameInputBlock"
+            "_template": "TitleBlock",
+            "title": "",
+            "underline": true,
+            "content": ""
         },
         {
-          "label": "Email",
-          "inputType": "text",
-          "autocomplete": "email",
-          "_template": "emailInputBlock"
-        },
-        {
-          "label": "Message",
-          "inputType": "textarea",
-          "autocomplete": "",
-          "_template": "messageInputBlock"
+            "_template": "FormBlock",
+            "name": "Contact Form",
+            "fields": [
+                {
+                    "label": "Name",
+                    "inputType": "text",
+                    "autocomplete": "name",
+                    "_template": "nameInputBlock"
+                },
+                {
+                    "label": "Email",
+                    "inputType": "text",
+                    "autocomplete": "email",
+                    "_template": "emailInputBlock"
+                },
+                {
+                    "label": "Message",
+                    "inputType": "textarea",
+                    "autocomplete": "",
+                    "_template": "messageInputBlock"
+                }
+            ],
+            "content": ""
         }
-      ],
-      "content": ""
-    }
-  ],
-  "displayTitle": true
+    ],
+    "displayTitle": true
 }
