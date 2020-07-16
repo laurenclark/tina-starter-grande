@@ -95,9 +95,9 @@ export const Theme = ({ children }) => {
 
 const TinaOverrideGlobalStyle = createGlobalStyle`
   :root {
-    --tina-color-primary-light: ${props => props.primary};
-    --tina-color-primary: ${props => props.primary};
-    --tina-color-primary-dark: ${props => props.primary};
+    --tina-color-primary-light: ${(props) => props.primary};
+    --tina-color-primary: ${(props) => props.primary};
+    --tina-color-primary-dark: ${(props) => props.primary};
   }
 `
 
