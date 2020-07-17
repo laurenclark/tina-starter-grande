@@ -1,0 +1,25 @@
+{
+  "title": "my new page",
+  "path": "/my-new-page",
+  "blocks": [
+    {
+      "content": "sdfdf sdf sdf  sdf sd fsdf ",
+      "center": false,
+      "_template": "ContentBlock"
+    },
+    {
+      "name": "Form",
+      "recipient": "",
+      "fields": [],
+      "_template": "FormBlock",
+      "content": ""
+    },
+    {
+      "title": "",
+      "center": false,
+      "underline": true,
+      "_template": "TitleBlock",
+      "content": ""
+    }
+  ]
+}
