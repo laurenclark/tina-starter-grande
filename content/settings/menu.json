@@ -1,24 +1,24 @@
 {
-    "menuItems": [
-        {
-            "link": "/blerg-bleg",
-            "label": "Hello"
-        },
-        {
-            "label": "Home",
-            "link": "/"
-        },
-        {
-            "label": "About",
-            "link": "/about"
-        },
-        {
-            "label": "Blog",
-            "link": "/blog"
-        },
-        {
-            "label": "Contact",
-            "link": "/contact"
-        }
-    ]
+  "menuItems": [
+    {
+      "label": "New",
+      "link": "/my-new-page"
+    },
+    {
+      "label": "Home",
+      "link": "/"
+    },
+    {
+      "label": "About",
+      "link": "/about"
+    },
+    {
+      "label": "Blog",
+      "link": "/blog"
+    },
+    {
+      "label": "Contact",
+      "link": "/contact"
+    }
+  ]
 }
