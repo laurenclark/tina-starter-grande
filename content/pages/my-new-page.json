@@ -3,22 +3,47 @@
   "path": "/my-new-page",
   "blocks": [
     {
+      "title": "",
+      "center": false,
+      "underline": true,
+      "_template": "TitleBlock",
+      "content": ""
+    },
+    {
       "content": "sdfdf sdf sdf  sdf sd fsdf ",
       "center": false,
       "_template": "ContentBlock"
     },
     {
       "name": "Form",
-      "recipient": "",
-      "fields": [],
+      "recipient": "lclark@rawnet.com",
+      "fields": [
+        {
+          "label": "Name",
+          "inputType": "text",
+          "autocomplete": "name",
+          "_template": "nameInputBlock"
+        },
+        {
+          "label": "Phone",
+          "inputType": "text",
+          "autocomplete": "tel",
+          "_template": "phoneInputBlock"
+        },
+        {
+          "label": "Email",
+          "inputType": "text",
+          "autocomplete": "email",
+          "_template": "emailInputBlock"
+        },
+        {
+          "label": "Message",
+          "inputType": "textarea",
+          "autocomplete": "",
+          "_template": "messageInputBlock"
+        }
+      ],
       "_template": "FormBlock",
-      "content": ""
-    },
-    {
-      "title": "",
-      "center": false,
-      "underline": true,
-      "_template": "TitleBlock",
       "content": ""
     }
   ]
